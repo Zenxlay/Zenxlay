@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zenxlay
+- 👋 Hi, I’m @Zenxlay, you can call me "Zen"
 - 👀 I’m interested in making fantasy stories
 - 🌱 I’m currently learning how to make videogames
 
