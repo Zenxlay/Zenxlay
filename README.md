@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Zenxlay, you can call me "Zen"
-- 👀 I’m interested in making fantasy stories
-- 🌱 I’m currently learning how to make videogames
-
-Game + Story = Perfection
+Winning requires sacrifices, not really my style
 
 <!---
 Zenxlay/Zenxlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
